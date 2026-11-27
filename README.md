@@ -1,6 +1,6 @@
 # NFT Cross-Platform Mobile App
 
-[App Landing Page](https://kayzman.github.io/nft_app_showcase/)
+[App Landing Page](https://ngonikatsidziradev.github.io/nft_app_showcase/)
 
 # Showcase
 
